@@ -1,1 +1,12 @@
-spring.application.name=rest-with-kotlin
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/rest_with_kotlin
+    username: admin
+    password: admin123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: false
