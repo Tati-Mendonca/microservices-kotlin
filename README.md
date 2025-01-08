@@ -1,3 +1,6 @@
+# Sobre o projeto
+
+Neste projeto o desafio proposto foi o desenvolvimento de um app Android utilizando a linguagem Kotlin.
 
 # Monitor de Hábitos
 
